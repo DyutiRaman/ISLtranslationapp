@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.08e2e643-677a-11ef-9986-cddf5db96301.jpg</filename>
+	<path>C:\Users\sahar\ISLtranslationapp\tensorflow\workspace\images\collectedimages\no\no.08e2e643-677a-11ef-9986-cddf5db96301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>351</ymin>
+			<xmax>267</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

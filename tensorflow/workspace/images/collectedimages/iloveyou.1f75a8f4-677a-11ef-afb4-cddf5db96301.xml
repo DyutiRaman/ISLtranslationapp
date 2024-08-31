@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iloveyou</folder>
+	<filename>iloveyou.1f75a8f4-677a-11ef-afb4-cddf5db96301.jpg</filename>
+	<path>C:\Users\sahar\ISLtranslationapp\tensorflow\workspace\images\collectedimages\iloveyou\iloveyou.1f75a8f4-677a-11ef-afb4-cddf5db96301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Love You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>298</ymin>
+			<xmax>307</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
