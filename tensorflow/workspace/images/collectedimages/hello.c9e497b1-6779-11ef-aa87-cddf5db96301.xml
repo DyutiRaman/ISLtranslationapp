@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>hello.c9e497b1-6779-11ef-aa87-cddf5db96301.jpg</filename>
+	<path>C:\Users\sahar\ISLtranslationapp\tensorflow\workspace\images\collectedimages\hello\hello.c9e497b1-6779-11ef-aa87-cddf5db96301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>186</ymin>
+			<xmax>324</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>
