@@ -1,7 +1,7 @@
 <annotation>
-	<folder>iloveyou</folder>
+	<folder>collectedimages</folder>
 	<filename>iloveyou.26aaae5f-677a-11ef-be9c-cddf5db96301.jpg</filename>
-	<path>C:\Users\sahar\ISLtranslationapp\tensorflow\workspace\images\collectedimages\iloveyou\iloveyou.26aaae5f-677a-11ef-be9c-cddf5db96301.jpg</path>
+	<path>C:\Users\sahar\ISLtranslationapp\tensorflow\workspace\images\collectedimages\iloveyou.26aaae5f-677a-11ef-be9c-cddf5db96301.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>I Love You</name>
+		<name>ILoveYou</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
