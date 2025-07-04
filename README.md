@@ -29,6 +29,4 @@ System Implementation:
 
 This project was developed as part of **SIH 2024**, and was selected among the **top 50 teams** in the college-level hackathon screening round.
 
-Snippets:
-[Include architecture diagrams, dataset samples, camera screenshots, or demo videos if available]
 
